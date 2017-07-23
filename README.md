@@ -1,1 +1,1 @@
-# ruby-utils
+# practical ruby util package
